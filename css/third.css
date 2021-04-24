@@ -1,0 +1,41 @@
+.rate_1 {
+    text-align: center;
+}
+
+.rate_for_roms {
+    width: 100%;
+    max-width: 1300px;
+    margin: 0 auto;
+    font-size: 25px;
+    font-weight: 400;
+    margin-top: 30px;
+}
+
+.rates_for_rooms {
+    margin-top: 30px;
+}
+
+.book__now {
+    padding: 15px 30px;
+    background: rgba(224, 185, 115, 1);
+    position: relative;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.stomach_guide {
+    display: flex;
+}
+
+
+.before {
+    background: white;
+    width: 866px;
+    height: 579px;
+}
+
+.before::before {
+    background: white;
+    width: 866px;
+    height: 579px;
+}
